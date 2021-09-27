@@ -25,17 +25,25 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 | `BalancedRandomForestClassifier`| 0.995989                | 1.00      | 1.00                 |
 | `EasyEnsembleClassifier`        | 0.942400                | 0.99      | 0.94                 |
 
-### `RandomOverSampler`
+### Over & Under Sampling
+In each of the four algorithms that employ over- or under-sampling, 
+#### `RandomOverSampler`
+![](Images/oversampling.PNG)
 
-### `SMOTE`
+#### `SMOTE`
+![](Images/smote.PNG)
 
-### `ClusterCentroids`
+#### `ClusterCentroids`
+![](Images/undersampling_clustercentroid.PNG)
 
-### `SMOTEENN`
+#### `SMOTEENN`
+![](Images/combination_smoteenn.PNG)
 
 ### `BalancedRandomForestClassifier`
+![](Images/ensemble_randomforest.PNG)
 
 ### `EasyEnsembleClassifier`
+![](Images/easyensembleclassifier.PNG)
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 ## Summary
