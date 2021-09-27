@@ -23,7 +23,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 
 ## Results 
-*Precision and recall are given for high-risk outcome.
+*Precision and recall are given for high-risk outcome.*
 
 | ML Model                        | Balanced Accuracy Score | Precision | Sensitivity (Recall) |
 | ------------------------------- | ----------------------- |-----------| -------------------- |          
