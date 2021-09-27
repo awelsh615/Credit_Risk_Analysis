@@ -58,4 +58,4 @@ The easy ensemble algorithm had a very good recall (sensetivity) for both high a
 ## Summary
 The two algorithms that used ensemble methods were more accurate by almost every measure than the resampling methods for this data.  The Balanced Random Forest had a higher accuracy score than the Easy Ensemble, but the recall was much lower.  Depending on the bank's level of risk-aversion, I would recommend one of these last two models.
 
-If the bank is relatively risk-averse, and is willing to deny some good candidates loans to avoid as many high-risk applicants as possible, then I would recommend the Random Forest Classifier.  The precision is high for high-risk applicants, which means there are very few false positives (applicants flagged for high risk but 
+If the bank is relatively risk-averse, and is willing to deny some good candidates loans to avoid as many high-risk applicants as possible, then I would recommend the Random Forest Classifier.  The precision is high for high-risk applicants, which means there are very few false positives (applicants flagged for high risk but are actually low-risk).  Therefore, the bank will catch as many applicants as possible.
