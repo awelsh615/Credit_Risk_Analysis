@@ -11,10 +11,15 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 - `EasyEnsembleClassifier`
 
 ## Resources
-- Jupyter Lab
-- VS Code
+- Data source: LoanStats_2019Q1.csv
+- Software: Python 3.8.8, Jupyter notebook 6.4.0, Jupyter lab 3.0.16
 - `imbalanced-learn` library
 - `scikit-learn` library
+- 
+    Data Sources: OpenWeather API Key, Google API Key
+    Software: Python 3.8.8, Jupyter notebook 6.4.0, Jupyter lab 3.0.16
+    Python libraries: numpy, pandas, matplotlib, gmaps, citipy
+
 
 
 ## Results 
